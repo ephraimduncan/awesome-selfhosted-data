@@ -1,0 +1,13 @@
+name: Documenso
+website_url: https://documenso.com
+source_code_url: https://github.com/documenso/documenso
+description: The Open Source DocuSign Alternative.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Document Management
+stargazers_count: 6874
+updated_at: '2024-07-26'
+archived: false
